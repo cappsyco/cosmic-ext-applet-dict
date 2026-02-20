@@ -19,15 +19,20 @@
     https://github.com/cappsyco/cosmic-ext-applet-dict
   </url>
   <name>Dictionary</name>
+  <name xml:lang="cs">Slovník</name>
   <summary>An English dictionary applet for the COSMIC™ desktop</summary>
+  <summary xml:lang="cs">Applet anglického slovníku pro prosředí COSMIC™</summary>
   <icon type="remote" width="64" height="64" scale="1">
     https://github.com/cappsyco/cosmic-ext-applet-dict/raw/main/resources/icons/hicolor/scalable/apps/logo.svg
   </icon>
   <url type="vcs-browser">https://github.com/cappsyco/cosmic-ext-applet-dict</url>
   <description>
     <p>An English language dictionary applet, perfect for quick access searching for words and definitions, or cycling through some random words to further enrich your knowledge of the English language.</p>
+    <p xml:lang="cs">Applet slovníku anglického jazyka, ideální pro rychlé vyhledávání slov a jejich definic, nebo pro procházení náhodných slov, která obohatí vaše znalosti angličtiny.</p>
     <p>Contains all English words, including profanity and offensive terms. The random function could also show any of these.</p>
+    <p xml:lang="cs">Obsahuje všechna anglická slova, včetně sprostých a urážlivých výrazů. Funkce náhodného výběru může zobrazit i tato slova.</p>
     <p>Based on the open source Wordset Dictionary. Please visit the repository for details on submitting additions and corrections.</p>
+    <p xml:lang="cs">Založeno na open-source Wordset Dictionary. Pro informace o přidávání nebo opravách slov navštivte prosím repozitář.</p>
   </description>
   <screenshots>
     <screenshot type="default">
@@ -36,6 +41,9 @@
       </image>
       <caption>
         A view of the open applet showing the search box, some results and the random link at the bottom.
+      </caption>
+      <caption xml:lang="cs">
+        Zobrazení otevřeného appletu ukazující vyhledávací box, některé výsledky a náhodný odkaz na konci.
       </caption>
     </screenshot>
   </screenshots>

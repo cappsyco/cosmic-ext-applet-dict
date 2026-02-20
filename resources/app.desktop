@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Dictionary
+Name[cs]=Slovník
 Exec=cosmic-ext-applet-dict
 Terminal=false
 Type=Application
