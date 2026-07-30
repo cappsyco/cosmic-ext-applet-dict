@@ -21,7 +21,7 @@
   <name>Dictionary</name>
   <name xml:lang="cs">Slovník</name>
   <summary>An English dictionary applet for the COSMIC™ desktop</summary>
-  <summary xml:lang="cs">Applet anglického slovníku pro prosředí COSMIC™</summary>
+  <summary xml:lang="cs">Applet anglického slovníku pro prostředí COSMIC™</summary>
   <summary xml:lang="uk">Віджет словника англійської мови для COSMIC™</summary>
   <icon type="remote" width="64" height="64" scale="1">
     https://github.com/cappsyco/cosmic-ext-applet-dict/raw/main/resources/icons/hicolor/scalable/apps/logo.svg
@@ -35,7 +35,7 @@
     <p xml:lang="cs">Obsahuje všechna anglická slova, včetně sprostých a urážlivých výrazů. Funkce náhodného výběru může zobrazit i tato slova.</p>
     <p xml:lang="uk">Велика база англійських слів, включно з грубощами та образливими термінами. Функція слово навмання також може показувати такі слова.</p>
     <p>Based on the open source Wordset Dictionary. Please visit the repository for details on submitting additions and corrections.</p>
-    <p xml:lang="cs">Založeno na open-source Wordset Dictionary. Pro informace o přidávání nebo opravách slov navštivte prosím repozitář.</p>
+    <p xml:lang="cs">Založeno na open-source Wordset Dictionary. Podrobnosti o přidávání nového obsahu a opravách naleznete v repozitáři.</p>
     <p xml:lang="uk">Створено на основі відкритого словника Wordset Dictionary. Щоб дізнатися більше про додавання та виправлення слів відвідайте сховище.</p>
   </description>
   <screenshots>
@@ -47,7 +47,7 @@
         A view of the open applet showing the search box, some results and the random link at the bottom.
       </caption>
       <caption xml:lang="cs">
-        Zobrazení otevřeného appletu ukazující vyhledávací box, některé výsledky a náhodný odkaz na konci.
+        Otevřený applet zobrazující vyhledávací pole, některé výsledky a náhodný odkaz na konci.
       </caption>
       <caption xml:lang="uk">
         Віджет у відкритому вигляді, що показує пошукове поле, результати пошуку та випадкове посилання внизу.
