@@ -1,14 +1,14 @@
 [package]
 name = "cosmic-ext-applet-dict"
-version = "0.2.0"
+version = "0.3.0"
 edition = "2024"
 license = "GPL-3.0-only"
 description = "An English dictionary applet for the COSMIC desktop."
 repository = "https://github.com/cappsyco/cosmic-ext-applet-dict"
 
 [dependencies]
-i18n-embed-fl = "0.10.0"
-rust-embed = "8.11.0"
+i18n-embed-fl = "0.10.1"
+rust-embed = "8.12.0"
 sqlite = "0.37.0"
 
 [dependencies.i18n-embed]

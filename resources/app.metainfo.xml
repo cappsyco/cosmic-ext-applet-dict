@@ -60,13 +60,12 @@
   <releases>
     <release version="0.2.0" date="2026-04-09">
       <url type="details">
-        https://github.com/cappsyco/cosmic-ext-applet-dict/releases/tag/v0.2.0
+        https://github.com/cappsyco/cosmic-ext-applet-dict/releases/tag/v0.3.0
       </url>
       <description>
-        <p>0.2.0</p>
+        <p>0.3.0</p>
         <ul>
-            <li>Rebased to the latest libcosmic (lots of under the hood changes and optimisations!)</li>
-            <li>New app and store translations - thank you, bittin and Dymkom</li>
+            <li>Rebased to the latest libcosmic to add frosted glass support</li>
         </ul>
       </description>
     </release>
