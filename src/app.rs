@@ -99,6 +99,7 @@ impl cosmic::Application for AppModel {
 
         if !self.entries.is_empty() {
             content_list = content_list.push(Space::new().height(10));
+            let mut entry_i = 1;
             for entry in &self.entries {
                 let mut entry_content = column!(widget::text::title4(&entry.word),);
 
@@ -121,7 +122,11 @@ impl cosmic::Application for AppModel {
                 }
 
                 entries_list = entries_list.push(entry_content.padding([10, 10, 15, 10]));
-                entries_list = entries_list.push(widget::divider::horizontal::default());
+                if entry_i != self.entries.len() {
+                    entries_list = entries_list.push(widget::divider::horizontal::default());
+                }
+
+                entry_i += 1;
             }
 
             content_list = content_list.push(scrollable(entries_list));
